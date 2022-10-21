@@ -107,6 +107,9 @@
         <project.build.outputTimestamp>2022-09-02T12:41:56Z</project.build.outputTimestamp>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+       
+  <sonar.organization>shruchika3</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
         <!-- dependency versions in alphanumeric order -->
         <asm.version>9.2</asm.version>
